@@ -1,3 +1,8 @@
+GESTURE DETECTION ANDROID APPLICATION
+
+License : MIT/X 
+Link :https://github.com/srishtiraj/gesturedetetctapp/blob/master/License.md 
+
 Android Gesture Detector Application with SpeechToText Conversion
 
 Android supports the Gesture API since version 1.6. The API can be located in the package android.gesture, and lets you store, load, draw and recognize gestures. 
