@@ -1,7 +1,9 @@
 GESTURE DETECTION ANDROID APPLICATION
 
 License : MIT/X 
+
 Link :https://github.com/srishtiraj/gesturedetetctapp/blob/master/License.md 
+
 Project Website: https://srishtiraj.github.io/gesturedetetctapp/
 
 Android Gesture Detector Application with SpeechToText Conversion
