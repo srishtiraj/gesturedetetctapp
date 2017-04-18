@@ -1,0 +1,125 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* doc\
+* doc\.svn\
+* doc\.svn\all-wcprops
+* doc\.svn\entries
+* doc\.svn\text-base\
+* doc\.svn\text-base\allclasses-frame.html.svn-base
+* doc\.svn\text-base\allclasses-noframe.html.svn-base
+* doc\.svn\text-base\constant-values.html.svn-base
+* doc\.svn\text-base\deprecated-list.html.svn-base
+* doc\.svn\text-base\help-doc.html.svn-base
+* doc\.svn\text-base\index.html.svn-base
+* doc\.svn\text-base\overview-tree.html.svn-base
+* doc\.svn\text-base\package-list.svn-base
+* doc\.svn\text-base\stylesheet.css.svn-base
+* doc\allclasses-frame.html
+* doc\allclasses-noframe.html
+* doc\constant-values.html
+* doc\deprecated-list.html
+* doc\eu\
+* doc\eu\.svn\
+* doc\eu\.svn\all-wcprops
+* doc\eu\.svn\entries
+* doc\eu\MrSnowflake\
+* doc\eu\MrSnowflake\.svn\
+* doc\eu\MrSnowflake\.svn\all-wcprops
+* doc\eu\MrSnowflake\.svn\entries
+* doc\eu\MrSnowflake\android\
+* doc\eu\MrSnowflake\android\.svn\
+* doc\eu\MrSnowflake\android\.svn\all-wcprops
+* doc\eu\MrSnowflake\android\.svn\entries
+* doc\eu\MrSnowflake\android\snowgestures\
+* doc\eu\MrSnowflake\android\snowgestures\.svn\
+* doc\eu\MrSnowflake\android\snowgestures\.svn\all-wcprops
+* doc\eu\MrSnowflake\android\snowgestures\.svn\entries
+* doc\eu\MrSnowflake\android\snowgestures\.svn\text-base\
+* doc\eu\MrSnowflake\android\snowgestures\.svn\text-base\SnowGesture.GestureCompleteListener.html.svn-base
+* doc\eu\MrSnowflake\android\snowgestures\.svn\text-base\SnowGesture.GestureListener.html.svn-base
+* doc\eu\MrSnowflake\android\snowgestures\.svn\text-base\SnowGesture.html.svn-base
+* doc\eu\MrSnowflake\android\snowgestures\.svn\text-base\package-frame.html.svn-base
+* doc\eu\MrSnowflake\android\snowgestures\.svn\text-base\package-summary.html.svn-base
+* doc\eu\MrSnowflake\android\snowgestures\.svn\text-base\package-tree.html.svn-base
+* doc\eu\MrSnowflake\android\snowgestures\.svn\text-base\package-use.html.svn-base
+* doc\eu\MrSnowflake\android\snowgestures\SnowGesture.GestureCompleteListener.html
+* doc\eu\MrSnowflake\android\snowgestures\SnowGesture.GestureListener.html
+* doc\eu\MrSnowflake\android\snowgestures\SnowGesture.html
+* doc\eu\MrSnowflake\android\snowgestures\class-use\
+* doc\eu\MrSnowflake\android\snowgestures\class-use\.svn\
+* doc\eu\MrSnowflake\android\snowgestures\class-use\.svn\all-wcprops
+* doc\eu\MrSnowflake\android\snowgestures\class-use\.svn\entries
+* doc\eu\MrSnowflake\android\snowgestures\class-use\.svn\text-base\
+* doc\eu\MrSnowflake\android\snowgestures\class-use\.svn\text-base\SnowGesture.GestureCompleteListener.html.svn-base
+* doc\eu\MrSnowflake\android\snowgestures\class-use\.svn\text-base\SnowGesture.GestureListener.html.svn-base
+* doc\eu\MrSnowflake\android\snowgestures\class-use\.svn\text-base\SnowGesture.html.svn-base
+* doc\eu\MrSnowflake\android\snowgestures\class-use\SnowGesture.GestureCompleteListener.html
+* doc\eu\MrSnowflake\android\snowgestures\class-use\SnowGesture.GestureListener.html
+* doc\eu\MrSnowflake\android\snowgestures\class-use\SnowGesture.html
+* doc\eu\MrSnowflake\android\snowgestures\package-frame.html
+* doc\eu\MrSnowflake\android\snowgestures\package-summary.html
+* doc\eu\MrSnowflake\android\snowgestures\package-tree.html
+* doc\eu\MrSnowflake\android\snowgestures\package-use.html
+* doc\help-doc.html
+* doc\index-files\
+* doc\index-files\.svn\
+* doc\index-files\.svn\all-wcprops
+* doc\index-files\.svn\entries
+* doc\index-files\.svn\text-base\
+* doc\index-files\.svn\text-base\index-1.html.svn-base
+* doc\index-files\.svn\text-base\index-2.html.svn-base
+* doc\index-files\.svn\text-base\index-3.html.svn-base
+* doc\index-files\.svn\text-base\index-4.html.svn-base
+* doc\index-files\.svn\text-base\index-5.html.svn-base
+* doc\index-files\.svn\text-base\index-6.html.svn-base
+* doc\index-files\index-1.html
+* doc\index-files\index-2.html
+* doc\index-files\index-3.html
+* doc\index-files\index-4.html
+* doc\index-files\index-5.html
+* doc\index-files\index-6.html
+* doc\index.html
+* doc\overview-tree.html
+* doc\package-list
+* doc\resources\
+* doc\resources\.svn\
+* doc\resources\.svn\all-wcprops
+* doc\resources\.svn\entries
+* doc\resources\.svn\prop-base\
+* doc\resources\.svn\prop-base\inherit.gif.svn-base
+* doc\resources\.svn\text-base\
+* doc\resources\.svn\text-base\inherit.gif.svn-base
+* doc\resources\inherit.gif
+* doc\stylesheet.css
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

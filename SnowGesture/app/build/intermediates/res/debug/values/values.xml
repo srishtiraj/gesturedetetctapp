@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/user/AndroidStudioProjects/SnowGesture/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">SnowGesture Creator</string>
+    <string name="char_recognizer_name">SnowGesture Character Recognizer</string>
+    <string name="gesture">The gesture you made:</string>
+    <string name="info">(c)2008 Mr Maarten Krijn Snowflake</string>
+</resources>
