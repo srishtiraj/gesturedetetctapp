@@ -14,7 +14,8 @@ Installation and requirements:
   3) Enable developer mode in your android phone or use emulator to run this application
   4) Export apk file and install
 
-Usage:
+  Usage:  
+
   1)Click on the gesture detection icon after installation 
   2)Draw gestures on the blank space provided
   3)Can find the detected text in the text box provided
