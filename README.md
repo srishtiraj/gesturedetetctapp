@@ -15,11 +15,14 @@ Installation and requirements:
   4) Export apk file and install
 
   Usage:  
-
-  1)Click on the gesture detection icon after installation 
+  1)Click on the gesture detection icon after installation
+  
   2)Draw gestures on the blank space provided
+  
   3)Can find the detected text in the text box provided
+  
   4)Can follow direction guide to learn how to write gestures
+  
 
 License : MIT/X 
 
