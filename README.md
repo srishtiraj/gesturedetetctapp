@@ -28,6 +28,6 @@ License : MIT/X
 
 Link :https://github.com/srishtiraj/gesturedetetctapp/blob/master/License.md 
 
-Project Website: https://srishtiraj.github.io/gesturedetetctapp/
+Project Website:http://gesturedetection.000webhostapp.com/
 
 Android Gesture Detector Application with SpeechToText Conversion
