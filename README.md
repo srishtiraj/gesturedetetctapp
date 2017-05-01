@@ -23,32 +23,58 @@ Installation and requirements:
   
   4)Can follow direction guide to learn how to write gestures:
       LDRUD - 'A'
+      
       DURDL - 'B'
+      
       LDR - 'C'
+      
       URDL - 'D'
+      
       LDRLDR - 'E'
+      
       LDRLD - 'F'
+      
       LDRULRD - 'G'
+      
       DURD - 'H'
+      
       D - 'I'
+      
       DL  - 'J'
+      
       DRULDR - 'K'
+      
       DR - 'L'
+      
       UDUD - 'M'
-      UDU - N'
+      
+      UDU - 'N'
+      
       LDRUL - 'O'
+      
       URDL -  'P'
+      
       LURD - 'Q'
+      
       URDLD - 'R'
+      
       LDRDL - 'S'
+      
       LD  - 'T'
-      DRU -'U'
+      
+      DRU - 'U'
+      
       DU  - 'V'
+      
       DUDU  - 'W'
+      
       DLRURLDR  - X'
+      
       DURDLD -  'Y'
+      
       RDLR  - 'Z'
-  
+
+
 
 License : MIT/X 
 
